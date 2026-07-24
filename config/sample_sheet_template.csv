@@ -1,0 +1,7 @@
+sample_id,group,fastq_r1,fastq_r2,description,notes
+NSCLC_001,cancer,data/raw/NSCLC_001_R1.fastq.gz,data/raw/NSCLC_001_R2.fastq.gz,NSCLC stage III adenocarcinoma,
+NSCLC_002,cancer,data/raw/NSCLC_002_R1.fastq.gz,data/raw/NSCLC_002_R2.fastq.gz,NSCLC stage II squamous cell carcinoma,
+NSCLC_003,cancer,data/raw/NSCLC_003_R1.fastq.gz,data/raw/NSCLC_003_R2.fastq.gz,NSCLC stage IV adenocarcinoma,
+Control_001,control,data/raw/Control_001_R1.fastq.gz,data/raw/Control_001_R2.fastq.gz,Healthy volunteer aged 45,
+Control_002,control,data/raw/Control_002_R1.fastq.gz,data/raw/Control_002_R2.fastq.gz,Healthy volunteer aged 52,
+Control_003,control,data/raw/Control_003_R1.fastq.gz,data/raw/Control_003_R2.fastq.gz,Healthy volunteer aged 48,
